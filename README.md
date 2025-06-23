@@ -85,8 +85,8 @@ pip install -r requirements.txt
 
 Las siguientes gráficas muestran la evolución del desempleo por grupo etario y sexo:
 
-- ![Desempleo por edad]([notebooks/img/desempleo_edad.png](https://github.com/SanMaBruno/su2-desempleo-losrios/blob/main/notebooks/01_eda_desempleo.ipynb))
-- ![Desempleo por sexo](notebooks/img/desempleo_sexo.png)
+- 📈 [Desempleo por Edad](https://github.com/SanMaBruno/su2-desempleo-losrios/blob/main/notebooks/01_eda_desempleo.ipynb)
+- 📉 [Desempleo por Sexo](https://github.com/SanMaBruno/su2-desempleo-losrios/blob/main/notebooks/02_eda_desempleo_por_sexo.ipynb)
 
 ---
 
